@@ -1,0 +1,15 @@
+{
+  "name": "control-lectura",
+  "version": "1.0.0",
+  "description": "Control de lectura aplicando TDD",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "coverage": "jest --coverage"
+  },
+  "author": "David Banzer",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.2.2"
+  }
+}
